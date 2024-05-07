@@ -5,6 +5,8 @@
 }
 body {
     font-family: 'Montserrat', sans-serif;
+    background: #333;
+    color: antiquewhite;
 }
 #app {
     width: 400px;
