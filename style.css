@@ -24,13 +24,14 @@ h1, h3 {
     margin-bottom: 1rem;
     font-weight: normal;
     font-family: "Libre Baskerville", serif;
+    margin-top: 1.5rem;
+    letter-spacing: 12px;
 }
 img {
     border-radius: 50%;
     border: 5px #333 solid;
     margin-bottom: 1rem;
     width: 20rem;
-/*     height: 20%; */
 }
 .male {
     border-color: steelblue;
