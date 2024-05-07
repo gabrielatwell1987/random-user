@@ -59,4 +59,5 @@ button:focus {
 }
 button:hover {
     transform: scale(0.9);
+    will-change: transform;
 }
